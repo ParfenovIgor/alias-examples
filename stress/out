@@ -1,0 +1,127 @@
+Start
+Alias compile
+
+real	0m0,043s
+user	0m0,035s
+sys	0m0,000s
+
+real	0m0,036s
+user	0m0,035s
+sys	0m0,000s
+
+real	0m0,037s
+user	0m0,032s
+sys	0m0,003s
+
+real	0m0,036s
+user	0m0,035s
+sys	0m0,000s
+
+real	0m0,036s
+user	0m0,035s
+sys	0m0,000s
+Alias run
+
+real	0m15,592s
+user	0m15,412s
+sys	0m0,107s
+
+real	0m15,731s
+user	0m15,495s
+sys	0m0,183s
+
+real	0m15,600s
+user	0m15,427s
+sys	0m0,129s
+
+real	0m15,548s
+user	0m15,383s
+sys	0m0,121s
+
+real	0m15,555s
+user	0m15,330s
+sys	0m0,182s
+C compile
+
+real	0m0,197s
+user	0m0,046s
+sys	0m0,025s
+
+real	0m0,057s
+user	0m0,050s
+sys	0m0,006s
+
+real	0m0,050s
+user	0m0,040s
+sys	0m0,009s
+
+real	0m0,052s
+user	0m0,043s
+sys	0m0,009s
+
+real	0m0,051s
+user	0m0,045s
+sys	0m0,006s
+C run
+
+real	0m11,549s
+user	0m4,622s
+sys	0m1,232s
+
+real	0m9,344s
+user	0m4,182s
+sys	0m1,169s
+
+real	0m7,818s
+user	0m4,037s
+sys	0m0,849s
+
+real	0m7,502s
+user	0m4,053s
+sys	0m0,816s
+
+real	0m7,610s
+user	0m4,259s
+sys	0m0,567s
+C++ compile
+
+real	0m0,750s
+user	0m0,370s
+sys	0m0,071s
+
+real	0m0,375s
+user	0m0,352s
+sys	0m0,020s
+
+real	0m0,355s
+user	0m0,322s
+sys	0m0,030s
+
+real	0m0,366s
+user	0m0,337s
+sys	0m0,025s
+
+real	0m0,459s
+user	0m0,369s
+sys	0m0,055s
+C++ run
+
+real	0m6,224s
+user	0m6,182s
+sys	0m0,014s
+
+real	0m5,870s
+user	0m5,844s
+sys	0m0,010s
+
+real	0m5,903s
+user	0m5,867s
+sys	0m0,020s
+
+real	0m6,178s
+user	0m6,158s
+sys	0m0,003s
+
+real	0m6,105s
+user	0m6,054s
+sys	0m0,017s

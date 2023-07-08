@@ -21,5 +21,5 @@ func ^main() {
     call merge_sort[N = 11](arr, sz)
     call print_array[N = 11](arr, sz)
 
-    free(a)
+    free(arr)
 }
